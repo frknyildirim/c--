@@ -1,4 +1,4 @@
-## Algoritma
+### Algoritma
 
 Algoritma, en basit ifade ile bir problem çözmek için takip edilecek sonlu sayıda adımdan oluşan bir çözüm yoludur.
 Diğer bir ifadeyle algoritma, bir problemin mantıksal çözümünün adım adım nasıl gerçekleştirileceğinin sözlü ifadesidir.
@@ -14,36 +14,38 @@ PROGRAM
 1. 	Komut 
 2. 	Komut 
 3. 	Komut 
-4. 	Komut 
----- 	Komut 
- Her komut bilgisayarda farklı bir işlem gerçekleştirecektir. 
+4. 	Komut
+
+    N.  Komut
+
+Her komut bilgisayarda farklı bir işlem gerçekleştirecektir. 
 
 
-# Programlama ve Programcı
+### Programlama ve Programcı
 
 Bilgisayara verilecek komutlar dizisinin hazırlanması işlemine programlama nedir. Programlamayı gerçekleştiren kişilere de programcı denilmektedir. 
 
 
-# Programlama Dilleri
+### Programlama Dilleri
 
 Algoritmaların program haline getirilmesi için programlama dilleri kullanılır.
 Programlama dilleri kullanılarak yazılımlar geliştirilir.
 
 
-# Kaynak Program (Kaynak Kod): 
+### Kaynak Program (Kaynak Kod): 
 Bir programlama dili ile yazılmış programdır. İnsanlar tarafından oluşturulan ve insanlar tarafından anlaşılabilen programdır.
 
-# Amaç Program: 
+### Amaç Program: 
 Kaynak programın (kaynak kodun) bilgisayarlar tarafından anlaşılabilmesi için özel bir işlemden geçmesi ve sonrasında bilgisayarın anlayacağı makine diline çevrilmesi gerekir. İşte makine diline çevrilmiş ve bilgisayar üzerinde çalıştırılabilir olan bu programa amaç program denir.
 
-# Derleyici: 
+### Derleyici: 
 Herhangi bir programlama diliyle yazılmış olan kaynak kodu, makine diline yani amaç programa dönüştüren özel programlara derleyici (compiler) adı verilir. Derleyicilerin kaynak kodu amaç programa dönüştürmeleri işlemine de derleme (compile) denilmektedir.
 
-# Yorumlayıcı: 
+### Yorumlayıcı: 
 Kaynak kodunu satır satır, komut komut derleyerek makine diline çeviren ve çalıştıran programlara yorumlara yorumlayıcı (interpreter) adı verilmektedir. Yorumlayıcının amacı, programcının yazdığı programı satır satır işleterek, çalışmasını izlemesini ve varsa hatalarını bularak düzeltmesini sağlamaktır.
 
 
-# NOTLAR:
+### NOTLAR:
 
 Algoritmanın temel özellikleri şunlardır:
 1. kesinlik: Algoritma içindeki adımlar herkes tarafından aynı şekilde anlaşılabiliyor olmalı, farklı anlamlara gelebilecek bulanık ifadeler içermemelidir.
