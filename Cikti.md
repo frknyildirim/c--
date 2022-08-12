@@ -1,7 +1,7 @@
 ## Cout
 Cout komutu, konsola (ekrana) bilgi yazmak için << operatörü ile birlikte kullanılır. Ekrana yazdırılacak bilgiler çift tırnaklar arasına yazılır. Her bir c++ ifadesi noktalı virgül ile biter.
 
-Syntax kavramını anlatırken kullandığımız programını tekrar inceleyelim.
+Syntax kavramını anlatırken kullandığımız programı tekrar inceleyelim.
 ```
 #include <iostream>
 using namespace std;
@@ -39,8 +39,7 @@ Yukarıdaki gibi iki cout komutu ile iki bilgi yazdırdık ama aynı satırda ol
 2) endl manipülatörünü kullanmak
 
 
-
-1)
+1-
 ```
 #include <iostream>
 using namespace std;
@@ -77,7 +76,7 @@ NOT: Yeni satır karakterine (\n) kaçış dizisi denir ve imleci ekrandaki bir 
 
 
 
-2)
+2-
 ```
 #include <iostream>
 using namespace std;
