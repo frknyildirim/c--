@@ -30,13 +30,17 @@ Algoritmaların program haline getirilmesi için programlama dilleri kullanılı
 Programlama dilleri kullanılarak yazılımlar geliştirilir.
 
 
-# Kaynak Program (Kaynak Kod): Bir programlama dili ile yazılmış programdır. İnsanlar tarafından oluşturulan ve insanlar tarafından anlaşılabilen programdır.
+# Kaynak Program (Kaynak Kod): 
+Bir programlama dili ile yazılmış programdır. İnsanlar tarafından oluşturulan ve insanlar tarafından anlaşılabilen programdır.
 
-# Amaç Program: Kaynak programın (kaynak kodun) bilgisayarlar tarafından anlaşılabilmesi için özel bir işlemden geçmesi ve sonrasında bilgisayarın anlayacağı makine diline çevrilmesi gerekir. İşte makine diline çevrilmiş ve bilgisayar üzerinde çalıştırılabilir olan bu programa amaç program denir.
+# Amaç Program: 
+Kaynak programın (kaynak kodun) bilgisayarlar tarafından anlaşılabilmesi için özel bir işlemden geçmesi ve sonrasında bilgisayarın anlayacağı makine diline çevrilmesi gerekir. İşte makine diline çevrilmiş ve bilgisayar üzerinde çalıştırılabilir olan bu programa amaç program denir.
 
-# Derleyici: Herhangi bir programlama diliyle yazılmış olan kaynak kodu, makine diline yani amaç programa dönüştüren özel programlara derleyici (compiler) adı verilir. Derleyicilerin kaynak kodu amaç programa dönüştürmeleri işlemine de derleme (compile) denilmektedir.
+# Derleyici: 
+Herhangi bir programlama diliyle yazılmış olan kaynak kodu, makine diline yani amaç programa dönüştüren özel programlara derleyici (compiler) adı verilir. Derleyicilerin kaynak kodu amaç programa dönüştürmeleri işlemine de derleme (compile) denilmektedir.
 
-# Yorumlayıcı: Kaynak kodunu satır satır, komut komut derleyerek makine diline çeviren ve çalıştıran programlara yorumlara yorumlayıcı (interpreter) adı verilmektedir. Yorumlayıcının amacı, programcının yazdığı programı satır satır işleterek, çalışmasını izlemesini ve varsa hatalarını bularak düzeltmesini sağlamaktır.
+# Yorumlayıcı: 
+Kaynak kodunu satır satır, komut komut derleyerek makine diline çeviren ve çalıştıran programlara yorumlara yorumlayıcı (interpreter) adı verilmektedir. Yorumlayıcının amacı, programcının yazdığı programı satır satır işleterek, çalışmasını izlemesini ve varsa hatalarını bularak düzeltmesini sağlamaktır.
 
 
 # NOTLAR:
