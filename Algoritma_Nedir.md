@@ -1,10 +1,10 @@
-# Algoritma
+## Algoritma
 
 Algoritma, en basit ifade ile bir problem çözmek için takip edilecek sonlu sayıda adımdan oluşan bir çözüm yoludur.
 Diğer bir ifadeyle algoritma, bir problemin mantıksal çözümünün adım adım nasıl gerçekleştirileceğinin sözlü ifadesidir.
 
 
-# Program (Kod)
+### Program (Kod)
 
 Algoritması oluşturulmuş bir problemin bilgisayar ortamına aktarılmış haline program (kod) denir.
 Diğer bir ifadeyle program (kod), belirli bir problemin çözülebilmesi için gerekli olan bilgisayar komutları dizisidir. Program kelimesi yerine eş anlamlı olmak üzere kod kelimesi de kullanılmaktadır.
